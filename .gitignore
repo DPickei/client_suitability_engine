@@ -1,0 +1,4 @@
+.env
+ideal_output.txt
+.venv
+data/*

@@ -1,0 +1,8 @@
+extension: csv # Can be csv or json
+names_filepath: data/csv/names.csv
+token_count_file: data/json/s_m718trl32gq7jdo2ld_pretty.json
+processing_json_file: data/json/s_m718trl32gq7jdo2ld_pretty.json
+partition_input_file: data/json/full_json_list_pretty.json
+nlp_processing_file: data/json/test_files/abraham_hazim.json
+nlp_processing_folder: data/json/test_files
+db_filepath: data/db/contacts.db
