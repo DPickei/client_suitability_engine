@@ -1,4 +1,7 @@
 .env
-ideal_output.txt
 .venv
 data/*
+/textfiles/
+.pytest_cache
+__pycache__/
+.cursorignore

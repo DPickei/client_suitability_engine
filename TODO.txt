@@ -1,1 +1,0 @@
-1. Add a "golfer?" column. Open ended text of if there's anything that indicates they could be into golf.
