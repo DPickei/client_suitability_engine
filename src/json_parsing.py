@@ -16,7 +16,7 @@ def open_file(json_file: str):
 def get_discovery_input(raw_json: dict) -> str:
     first_name = raw_json["discovery_input"]["first_name"]
     last_name = raw_json["discovery_input"]["last_name"]
-    discovery_input = first_name + last_name
+    discovery_input = first_name + "_" + last_name
     return discovery_input
 
 def memorialized_account(raw_json: dict) -> bool:

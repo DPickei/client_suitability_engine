@@ -20,7 +20,7 @@ def db_to_csv():
     
     # Generate filename with timestamp
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    csv_path = csv_dir / f"contacts_export_{timestamp}.csv"
+    csv_path = csv_dir / f"profiles_export_{timestamp}.csv"
     
     try:
         # Connect to database
@@ -28,11 +28,11 @@ def db_to_csv():
         cursor = conn.cursor()
         
         # Get column names
-        cursor.execute("PRAGMA table_info(contacts)")
+        cursor.execute("PRAGMA table_info(profiles)")
         columns = [col[1] for col in cursor.fetchall()]
         
-        # Get all data from contacts table
-        cursor.execute("SELECT * FROM contacts")
+        # Get all data from profiles table
+        cursor.execute("SELECT * FROM profiles")
         rows = cursor.fetchall()
         
         # Write to CSV
