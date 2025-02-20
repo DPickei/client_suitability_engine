@@ -1,6 +1,6 @@
 profile_parsing_prompt: |
   Analyze the given linkedin profile and extract them exact values
-    1. wealth_rating: INT - estimate of the individuals net worth, 1 being less than $100K, 10 being over $10M
+    1. wealth_rating: INT - estimate of the individuals net worth, 1 being less than $100K, 8 being $1M - $5M, 9 being over $10M, and 10 being over $25M
     2. reasoning: TEXT - justification for wealth rating, no more than 15 words.
     3. golfer: TEXT - justification it seems like they enjoy golf, no more than 15 words. If they are not, just say "no"
 
