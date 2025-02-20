@@ -1,6 +1,8 @@
 .env
 .venv
-data/*
+data/csv/*
+data/db/*
+data/json/*
 /textfiles/
 .pytest_cache
 .cursorignore
