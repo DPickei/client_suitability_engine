@@ -2,7 +2,9 @@ import asyncio
 import json
 from pathlib import Path
 from typing import Dict, List
-from . import utility_functions, database, json_parsing, nlp
+
+from .database import all_profiles
+from . import utility_functions, json_parsing, nlp
 import time
 
 async def process_profiles(folder_path):
@@ -17,7 +19,7 @@ async def process_profiles(folder_path):
     limit = config.get("limit", 0)  # Default to 0 (no limit) if not specified
     
     # Get list of already parsed names
-    parsed_names = database.get_parsed_names()
+    parsed_names = all_profiles.get_parsed_names()
 
     # Get total number of files to process
     all_files = [f for f in folder_path.glob("*.json") if not is_parsed_profile(parsed_names, f)]
@@ -39,7 +41,7 @@ async def process_profiles(folder_path):
         if len(tasks) >= batch_size:
             batch_profiles = await asyncio.gather(*tasks)
             flattened_profiles.extend([profile for file_profiles in batch_profiles for profile in file_profiles])
-            database.insert_profiles(flattened_profiles)
+            all_profiles.insert_profiles(flattened_profiles)
             print(f"Processed batch: {file_count}/{total_files} complete")
             
             # Calculate time remaining to reach 60 seconds
@@ -57,7 +59,7 @@ async def process_profiles(folder_path):
     if tasks:
         batch_profiles = await asyncio.gather(*tasks)
         flattened_profiles.extend([profile for file_profiles in batch_profiles for profile in file_profiles])
-        database.insert_profiles(flattened_profiles)
+        all_profiles.insert_profiles(flattened_profiles)
         print(f"Processed final batch: {file_count}/{total_files} complete")
     
     return flattened_profiles

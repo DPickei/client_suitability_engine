@@ -1,7 +1,7 @@
 from pathlib import Path
 import json
 import pytest
-from src import database
+from src.database import all_profiles
 
 @pytest.fixture
 def json_folderpath():
@@ -75,7 +75,7 @@ def sample_profiles():
 def cleanup_test_data():
     yield  # Run the test
     # Cleanup after test completes
-    conn = database.initialize_database()
+    conn = all_profiles.initialize_database()
     cursor = conn.cursor()
     cursor.execute('DELETE FROM profiles WHERE linkedin_id = ? OR linkedin_id = ?', ('test123', 'adam-mayblum-0586501',))
     conn.commit()

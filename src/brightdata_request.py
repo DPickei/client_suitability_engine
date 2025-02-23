@@ -17,8 +17,8 @@ def trigger_brightdata():
     )
     input_names = []
     config = src.utility_functions.load_config()
-    names_filepath = config.get("names_filepath")
-    with open(names_filepath, newline='', encoding='utf-8-sig') as csvfile:
+    input_names_filepath = config.get("input_names_filepath")
+    with open(input_names_filepath, newline='', encoding='utf-8-sig') as csvfile:
         reader = csv.DictReader(csvfile)
         # Sanitize field names with BOM removal
         reader.fieldnames = [name.lstrip('\ufeff').strip().lower().replace('_', ' ').replace('-', ' ') 

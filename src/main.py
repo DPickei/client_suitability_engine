@@ -1,6 +1,8 @@
 import asyncio
 from pathlib import Path
-from . import utility_functions, database, metric_logging, profile_processing, db_to_csv
+
+from .database import all_profiles
+from . import utility_functions, metric_logging, profile_processing, db_to_csv
 
 """
 1. Take in json file of a particular person
@@ -15,7 +17,7 @@ def main(folder_path):
     profiles = asyncio.run(profile_processing.process_profiles(folder_path))
     duration = metric_logging.duration(start_time)
     metric_logging.files_processed(duration, profiles)
-    database.insert_profiles(profiles)
+    all_profiles.insert_profiles(profiles)
     db_to_csv.db_to_csv()
 
 def setup():

@@ -40,7 +40,7 @@ def insert_profiles(profiles: List[Dict]) -> int:
     inserted_count = 0
     for profile in profiles:
         cursor.execute('''
-            INSERT OR IGNORE INTO profiles (
+            INSERT OR IGNORE INTO all_profiles (
                 linkedin_id, 
                 name,
                 golfer,
