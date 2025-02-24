@@ -1,7 +1,15 @@
 from pathlib import Path
 import json
 import pytest
-from src.database import all_profiles
+from src.database import operations, shared
+import sqlite3
+
+@pytest.fixture
+def db():
+    """Fixture to create and cleanup database connection"""
+    database = operations.DatabaseOps()
+    yield database
+    # Cleanup will happen automatically via __del__
 
 @pytest.fixture
 def json_folderpath():
@@ -75,8 +83,9 @@ def sample_profiles():
 def cleanup_test_data():
     yield  # Run the test
     # Cleanup after test completes
-    conn = all_profiles.initialize_database()
+    db_path = shared.get_db_path()
+    conn = sqlite3.Connection(db_path)
     cursor = conn.cursor()
-    cursor.execute('DELETE FROM profiles WHERE linkedin_id = ? OR linkedin_id = ?', ('test123', 'adam-mayblum-0586501',))
+    cursor.execute('DELETE FROM all_profiles WHERE linkedin_id = ? OR linkedin_id = ?', ('test123', 'adam-mayblum-0586501',))
     conn.commit()
     conn.close()

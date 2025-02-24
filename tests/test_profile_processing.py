@@ -5,10 +5,10 @@ import pytest
 from unittest.mock import patch
 
 @pytest.mark.asyncio
-async def test_process_profiles(json_folderpath):
+async def test_process_profiles(db, json_folderpath):
     """Test the async profile processing function"""
     # Process profiles from our test_json directory
-    profiles = await profile_processing.process_profiles(json_folderpath)
+    profiles = await profile_processing.process_profiles(db, json_folderpath)
     
     # Assert that profiles were processed
     assert len(profiles) > 0, "No profiles were processed"
