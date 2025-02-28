@@ -1,10 +1,9 @@
-# LinkedIn Profile Analyzer
+## Why I built this
 
-This tool processes LinkedIn profile data to extract and analyze key information. It's built to handle large datasets efficiently while maintaining data quality.
+A client wishes to review many linkedin profiles but does not want to have to read through them manually. So this does that for them, and returns the profiles that seem to fit their search criteria best.
 
 ## What it does
 
-- 
 - Takes raw LinkedIn profile JSON data
 - Cleans and organizes the data
 - Uses Google's AI to analyze profile text
@@ -12,50 +11,43 @@ This tool processes LinkedIn profile data to extract and analyze key information
 
 ## Tech Stack
 
-- Python 3.9+
-- SQLite3
+- Python
+    - Asyncio
+- SQLite
 - AWS S3
+- Bright Data LinkedIn URL API
 - Gemini-2.0-flash ($0.10 / 1M output)
 
 ## Process
 
-1. Send a request to Bright Data with a first and last name
-2. Raw JSON files get processed into individual profiles
-3. Desired attributes are gathered via directly copying or with Flash
-4. Profiles are stored in db
-5. CSV is created from db
-
-## Why I built this
-
-A client wishes to review many linkedin profiles but does not want to have to read through them manually. So this does that for them, and returns the profiles that seem to fit their search criteria best.
+1. Get a profile of a name (one of the json files)
+2. Break it up into individual dictionaries (one file can have multiple people)
+3. Add them to the all_profiles database
+4. Tag profiles in all_profiles that meet basic qualification criteria for nlp analysis
+5. Process these profiles with nlp, put the results in nlp_attributes
+6. Finally, we tag profiles as qualified_nlp_review = TRUE for profiles that meet our selection criteria
+7. Export profiles to CSV
 
 ## How to set it up
 
-1. Create a virtual environment
-2. Install the dependencies
-3. Set up your environment variables
-4. Run the code
+- The project currently utilizes local dependencies and integrates with AWS S3 for data retrieval through BrightData's API. Current setup requires manual configuration of these components.
 
 ## License
 
-MIT License
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 Copyright (c) 2024 David Pickei
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial — You may not use the material for commercial purposes.
+
+Notices:
+- You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+- No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.

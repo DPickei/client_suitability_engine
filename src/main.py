@@ -6,11 +6,12 @@ from src import utility_functions, metric_logging, profile_processing, nlp
 
 """
 1. Get a profile of a name (one of the json files)
-2. Break it up into individuals (one fine can have multiple people)
+2. Break it up into individual dictionaries (one file can have multiple people)
 3. Add them to the all_profiles database
 4. Tag profiles in all_profiles that meet basic qualification criteria for nlp analysis
 5. Process these profiles with nlp, put the results in nlp_attributes
 6. Finally, we tag profiles as qualified_nlp_review = TRUE for profiles that meet our selection criteria
+7. Export profiles to CSV
 """
 
 def main(folder_path: Path) -> None:
