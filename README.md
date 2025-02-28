@@ -2,22 +2,6 @@
 
 A client wishes to review many linkedin profiles but does not want to have to read through them manually. So this does that for them, and returns the profiles that seem to fit their search criteria best.
 
-## What it does
-
-- Takes raw LinkedIn profile JSON data
-- Cleans and organizes the data
-- Uses Google's AI to analyze profile text
-- Stores everything in a SQLite database for easy access
-
-## Stack
-
-- Python
-    - Asyncio
-- SQLite
-- AWS S3
-- Bright Data LinkedIn URL API
-- Gemini-2.0-flash ($0.10 / 1M output)
-
 ## Process
 
 1. Take a file for a name
@@ -32,6 +16,15 @@ A client wishes to review many linkedin profiles but does not want to have to re
 ## How to set it up
 
 - The project currently utilizes local dependencies and integrates with AWS S3 for data retrieval through BrightData's API. Current setup requires manual configuration of these components.
+
+## Stack
+
+- Python
+    - Asyncio
+- SQLite
+- AWS S3
+- Bright Data LinkedIn URL API
+- Gemini-2.0-flash ($0.10 / 1M output)
 
 ## License
 
