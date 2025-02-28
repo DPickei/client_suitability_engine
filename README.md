@@ -20,9 +20,10 @@ A client wishes to review many linkedin profiles but does not want to have to re
 
 ## Process
 
-1. Get a profile of a name
+1. Take a file for a name
 2. Break it up into individual dictionaries for each person
-3. Add them to the all_profiles database
+    - one name will usually have multiple people associated
+3. Add basic info to our database
 4. Tag profiles that meet basic qualification criteria for nlp analysis
 5. Process these profiles with nlp, store results
 6. Tag profiles that meet our selection criteria
