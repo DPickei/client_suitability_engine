@@ -9,7 +9,7 @@ A client wishes to review many linkedin profiles but does not want to have to re
 - Uses Google's AI to analyze profile text
 - Stores everything in a SQLite database for easy access
 
-## Tech Stack
+## Stack
 
 - Python
     - Asyncio
@@ -20,12 +20,12 @@ A client wishes to review many linkedin profiles but does not want to have to re
 
 ## Process
 
-1. Get a profile of a name (one of the json files)
-2. Break it up into individual dictionaries (one file can have multiple people)
+1. Get a profile of a name
+2. Break it up into individual dictionaries for each person
 3. Add them to the all_profiles database
-4. Tag profiles in all_profiles that meet basic qualification criteria for nlp analysis
-5. Process these profiles with nlp, put the results in nlp_attributes
-6. Finally, we tag profiles as qualified_nlp_review = TRUE for profiles that meet our selection criteria
+4. Tag profiles that meet basic qualification criteria for nlp analysis
+5. Process these profiles with nlp, store results
+6. Tag profiles that meet our selection criteria
 7. Export profiles to CSV
 
 ## How to set it up

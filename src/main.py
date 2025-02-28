@@ -5,7 +5,7 @@ from src.export import db_to_csv
 from src import utility_functions, metric_logging, profile_processing, nlp
 
 """
-1. Get a profile of a name (one of the json files)
+1. Get a profile of a name (a json file)
 2. Break it up into individual dictionaries (one file can have multiple people)
 3. Add them to the all_profiles database
 4. Tag profiles in all_profiles that meet basic qualification criteria for nlp analysis
