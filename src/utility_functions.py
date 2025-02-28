@@ -16,3 +16,10 @@ def load_config(config_file: str = None) -> dict:
         raise RuntimeError(f"Config file not found at {config_path}")
     except yaml.YAMLError:
         raise RuntimeError(f"Invalid YAML in config file at {config_path}")
+
+def setup() -> Path:
+    config = load_config()
+    processing_folder = config.get("processing_folder")
+    root = get_root()
+    folder_path = Path(root) / processing_folder
+    return folder_path

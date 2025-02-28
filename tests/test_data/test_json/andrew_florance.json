@@ -1,0 +1,1553 @@
+[
+  {
+    "activity": null,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "city": "Orange, California, United States",
+    "connections": 1,
+    "country_code": "US",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/la-sierra-university/?trk=public_profile_topcard-current-company",
+      "name": "La Sierra University",
+      "title": "General Worker at La Sierra University"
+    },
+    "current_company_name": "La Sierra University",
+    "default_avatar": true,
+    "discovery_input": {
+      "first_name": "Andrew",
+      "last_name": "Florance"
+    },
+    "education": null,
+    "experience": [
+      {
+        "company": "La Sierra University",
+        "company_logo_url": null,
+        "description_html": null,
+        "title": "General Worker",
+        "url": "https://www.linkedin.com/school/la-sierra-university/"
+      }
+    ],
+    "followers": 1,
+    "honors_and_awards": null,
+    "id": "andrew-florance-a4b5053b",
+    "input": {
+      "url": "https://www.linkedin.com/in/andrew-florance-a4b5053b"
+    },
+    "input_url": "https://www.linkedin.com/in/andrew-florance-a4b5053b",
+    "linkedin_id": "andrew-florance-a4b5053b",
+    "linkedin_num_id": "141595547",
+    "location": "Orange",
+    "memorialized_account": false,
+    "name": "Andrew Florance",
+    "people_also_viewed": [
+      {
+        "about": "general worker at food sevice",
+        "location": "West Haven, CT",
+        "name": "shirley bookert",
+        "profile_link": "https://www.linkedin.com/in/shirley-bookert-22122744?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "General Repair Worker at Northland Community and Technical College",
+        "location": "Thief River Falls, MN",
+        "name": "Brian Larson",
+        "profile_link": "https://www.linkedin.com/in/brian-larson-889844121?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Agricultural Sales and Marketing major - Purdue University",
+        "location": "Noblesville, IN",
+        "name": "Brandt Davis",
+        "profile_link": "https://www.linkedin.com/in/brandt-davis-2907b080?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Intensive Case Manager",
+        "location": "Humble, TX",
+        "name": "Josephine Jackson",
+        "profile_link": "https://www.linkedin.com/in/josephine-jackson-883a3b3a?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "General Utility Worker at UNC Asheville",
+        "location": "Pisgah Forest, NC",
+        "name": "Reggie Norman",
+        "profile_link": "https://www.linkedin.com/in/reggie-norman-90932292?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "General Maintenance Lead, Facilities Student Worker Supervisor",
+        "location": "St Paul, MN",
+        "name": "Kris Price",
+        "profile_link": "https://www.linkedin.com/in/kris-price-805191a7?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Student at Augustana College",
+        "location": "Groveland, IL",
+        "name": "Sara Mitchell",
+        "profile_link": "https://www.linkedin.com/in/sara-mitchell-79687891?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "PhD in Microbiology and Molecular Genetics",
+        "location": "Riverside, CA",
+        "name": "Arun Muthiah",
+        "profile_link": "https://www.linkedin.com/in/arun-muthiah-b143b044?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Clinical Social Worker/Psychotherapist",
+        "location": "Los Angeles, CA",
+        "name": "Alisha Manning, LCSW, PMH-C",
+        "profile_link": "https://www.linkedin.com/in/alisha-manning-lcsw-pmh-c-01760267?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Education Professional",
+        "location": "Farmington, CT",
+        "name": "Chanel Daniels",
+        "profile_link": "https://www.linkedin.com/in/chanel-daniels-1ba14980?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Business Analyst, Loma Linda University, School of Medicine",
+        "location": "Riverside, CA",
+        "name": "Christian Liang",
+        "profile_link": "https://www.linkedin.com/in/christian-liang-a4aaba7b?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Professor at La Sierra University",
+        "location": "Loma Linda, CA",
+        "name": "Eric Anderson",
+        "profile_link": "https://www.linkedin.com/in/eric-anderson-a2032b6?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Medical Student at Loma Linda University",
+        "location": "San Diego, CA",
+        "name": "Julia Giacopuzzi",
+        "profile_link": "https://www.linkedin.com/in/julia-giacopuzzi-40051266?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "General Counsel at Loma Linda University Adventist Health Sciences Center",
+        "location": "Corona, CA",
+        "name": "Kent Hansen",
+        "profile_link": "https://www.linkedin.com/in/kent-hansen-8246008?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Physician-Scientist",
+        "location": "Loma Linda, CA",
+        "name": "Kerby Oberg",
+        "profile_link": "https://www.linkedin.com/in/oberg-llu-chasg?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Socially Conscious Educator & Relational Therapist",
+        "location": "Riverside, CA",
+        "name": "Beth D'Arrigo-Patrick, PhD, LMFT (she/her)",
+        "profile_link": "https://www.linkedin.com/in/beth-d-arrigo-patrick-phd-lmft-she-her-09632513?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Associate Professor of Clinical Dentistry at Midwestern University",
+        "location": "Tempe, AZ",
+        "name": "Michael Meharry",
+        "profile_link": "https://www.linkedin.com/in/michael-meharry-18aaa237?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Nanochemistry and Microbiology researcher at Loma Linda University",
+        "location": "Los Angeles Metropolitan Area",
+        "name": "Jason Black",
+        "profile_link": "https://www.linkedin.com/in/jason-black-8284b459?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "General Dentist at Pediatric Dentistry of Redlands and Associates",
+        "location": "Redlands, CA",
+        "name": "Evan Lemley",
+        "profile_link": "https://www.linkedin.com/in/evan-lemley-58a03854?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Assistant Professor Of Biology at Waynesburg University",
+        "location": "Waynesburg, PA",
+        "name": "Christian Hayes",
+        "profile_link": "https://www.linkedin.com/in/christian-hayes-1b407259?trk=public_profile_browsemap-profile"
+      }
+    ],
+    "position": "General Worker at La Sierra University",
+    "similar_profiles": [
+      {
+        "name": "shirley bookert",
+        "title": "general worker at food sevice",
+        "url": "https://www.linkedin.com/in/shirley-bookert-22122744",
+        "url_text": "https://www.linkedin.com/in/shirley-bookert-22122744"
+      },
+      {
+        "name": "Brian Larson",
+        "title": "General Repair Worker at Northland Community and Technical College",
+        "url": "https://www.linkedin.com/in/brian-larson-889844121",
+        "url_text": "https://www.linkedin.com/in/brian-larson-889844121"
+      },
+      {
+        "name": "Brandt Davis",
+        "title": "Agricultural Sales and Marketing major - Purdue University",
+        "url": "https://www.linkedin.com/in/brandt-davis-2907b080",
+        "url_text": "https://www.linkedin.com/in/brandt-davis-2907b080"
+      },
+      {
+        "name": "Josephine Jackson",
+        "title": "Intensive Case Manager",
+        "url": "https://www.linkedin.com/in/josephine-jackson-883a3b3a",
+        "url_text": "https://www.linkedin.com/in/josephine-jackson-883a3b3a"
+      },
+      {
+        "name": "Reggie Norman",
+        "title": "General Utility Worker at UNC Asheville",
+        "url": "https://www.linkedin.com/in/reggie-norman-90932292",
+        "url_text": "https://www.linkedin.com/in/reggie-norman-90932292"
+      },
+      {
+        "name": "Kris Price",
+        "title": "General Maintenance Lead, Facilities Student Worker Supervisor",
+        "url": "https://www.linkedin.com/in/kris-price-805191a7",
+        "url_text": "https://www.linkedin.com/in/kris-price-805191a7"
+      },
+      {
+        "name": "Sara Mitchell",
+        "title": "Student at Augustana College",
+        "url": "https://www.linkedin.com/in/sara-mitchell-79687891",
+        "url_text": "https://www.linkedin.com/in/sara-mitchell-79687891"
+      },
+      {
+        "name": "Arun Muthiah",
+        "title": "PhD in Microbiology and Molecular Genetics",
+        "url": "https://www.linkedin.com/in/arun-muthiah-b143b044",
+        "url_text": "https://www.linkedin.com/in/arun-muthiah-b143b044"
+      },
+      {
+        "name": "Alisha Manning, LCSW, PMH-C",
+        "title": "Clinical Social Worker/Psychotherapist",
+        "url": "https://www.linkedin.com/in/alisha-manning-lcsw-pmh-c-01760267",
+        "url_text": "https://www.linkedin.com/in/alisha-manning-lcsw-pmh-c-01760267"
+      },
+      {
+        "name": "Chanel Daniels",
+        "title": "Education Professional",
+        "url": "https://www.linkedin.com/in/chanel-daniels-1ba14980",
+        "url_text": "https://www.linkedin.com/in/chanel-daniels-1ba14980"
+      },
+      {
+        "name": "Christian Liang",
+        "title": "Business Analyst, Loma Linda University, School of Medicine",
+        "url": "https://www.linkedin.com/in/christian-liang-a4aaba7b",
+        "url_text": "https://www.linkedin.com/in/christian-liang-a4aaba7b"
+      },
+      {
+        "name": "Eric Anderson",
+        "title": "Professor at La Sierra University",
+        "url": "https://www.linkedin.com/in/eric-anderson-a2032b6",
+        "url_text": "https://www.linkedin.com/in/eric-anderson-a2032b6"
+      },
+      {
+        "name": "Julia Giacopuzzi",
+        "title": "Medical Student at Loma Linda University",
+        "url": "https://www.linkedin.com/in/julia-giacopuzzi-40051266",
+        "url_text": "https://www.linkedin.com/in/julia-giacopuzzi-40051266"
+      },
+      {
+        "name": "Kent Hansen",
+        "title": "General Counsel at Loma Linda University Adventist Health Sciences Center",
+        "url": "https://www.linkedin.com/in/kent-hansen-8246008",
+        "url_text": "https://www.linkedin.com/in/kent-hansen-8246008"
+      },
+      {
+        "name": "Kerby Oberg",
+        "title": "Physician-Scientist",
+        "url": "https://www.linkedin.com/in/oberg-llu-chasg",
+        "url_text": "https://www.linkedin.com/in/oberg-llu-chasg"
+      },
+      {
+        "name": "Beth D'Arrigo-Patrick, PhD, LMFT (she/her)",
+        "title": "Socially Conscious Educator & Relational Therapist",
+        "url": "https://www.linkedin.com/in/beth-d-arrigo-patrick-phd-lmft-she-her-09632513",
+        "url_text": "https://www.linkedin.com/in/beth-d-arrigo-patrick-phd-lmft-she-her-09632513"
+      },
+      {
+        "name": "Michael Meharry",
+        "title": "Associate Professor of Clinical Dentistry at Midwestern University",
+        "url": "https://www.linkedin.com/in/michael-meharry-18aaa237",
+        "url_text": "https://www.linkedin.com/in/michael-meharry-18aaa237"
+      },
+      {
+        "name": "Jason Black",
+        "title": "Nanochemistry and Microbiology researcher at Loma Linda University",
+        "url": "https://www.linkedin.com/in/jason-black-8284b459",
+        "url_text": "https://www.linkedin.com/in/jason-black-8284b459"
+      },
+      {
+        "name": "Evan Lemley",
+        "title": "General Dentist at Pediatric Dentistry of Redlands and Associates",
+        "url": "https://www.linkedin.com/in/evan-lemley-58a03854",
+        "url_text": "https://www.linkedin.com/in/evan-lemley-58a03854"
+      },
+      {
+        "name": "Christian Hayes",
+        "title": "Assistant Professor Of Biology at Waynesburg University",
+        "url": "https://www.linkedin.com/in/christian-hayes-1b407259",
+        "url_text": "https://www.linkedin.com/in/christian-hayes-1b407259"
+      }
+    ],
+    "timestamp": "2025-02-12T05:06:53.921Z",
+    "url": "https://www.linkedin.com/in/andrew-florance-a4b5053b"
+  },
+  {
+    "activity": [
+      {
+        "id": "7293291342913306626",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/amanda-law-b27a401a8_the-bank-of-england-has-lowered-the-base-activity-7293291342913306626-_vGF",
+        "title": "The Bank of England has lowered the base rate from 4.75% to 4.5%\u2026. Marking the lowest rate in over 18 months! Positive news for borrowers and the\u2026"
+      },
+      {
+        "id": "7292246869735292931",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/amanda-law-b27a401a8_another-lovely-review-i-recently-activity-7292246869735292931-gnjT",
+        "title": "Another lovely review \ud83d\ude0d \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f I recently worked with Amanda to remortgage my house, and I was extremely impressed with Amanda's service. From\u2026"
+      },
+      {
+        "id": "7285575559319810049",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQFdJLHGB1cvwg/videocover-high/B4EZRuQP8RHABw-/0/1737016556385?e=2147483647&v=beta&t=aJtagFAD0JsaX_SBt-in-HRfUv2_7pOxfOWsPgKSlG0",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/mike-mcdonald-9365a443_taqaglobal-activity-7285575559319810049-9o62",
+        "title": "Disembarkation flight from the North Cormorant The 14th January 2025 marked the final chapter for the North Cormorant as the last 17 crew members\u2026"
+      },
+      {
+        "id": "7286116106761564160",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGRhhxyGdn0HQ/feedshare-shrink_2048_1536/B4EZR17_IFGgAs-/0/1737145448217?e=2147483647&v=beta&t=uXigcPygUJGIA_xI350CZwlo_F1TV2-WdDPhJCGSg04",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/aberdeenfc_everyone-at-aberdeen-fc-is-deeply-saddened-activity-7286116106761564160-0VI7",
+        "title": "Everyone at Aberdeen FC is deeply saddened to learn of the passing of Aberdeen born football legend Denis Law. One of Scotland\u2019s greatest ever\u2026"
+      },
+      {
+        "id": "7284625100165767168",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHcsplSfhOpyQ/feedshare-shrink_1280/B4EZRgv7CeG0Ao-/0/1736789964143?e=2147483647&v=beta&t=f8n1DB1cHEZY4FFPGz7wPzqblySXFS8hYcqi5D-q_eQ",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/aberdeenfc_defender-alfie-dorrington-has-joined-the-activity-7284625100165767168-cBN7",
+        "title": "Defender Alfie Dorrington has joined the Dons on loan for the remainder of the season from Tottenham Hotspur. // bit.ly/3DVL6aL"
+      },
+      {
+        "id": "7281037161527705601",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFO7WYD4r2e5w/feedshare-shrink_2048_1536/B4EZQtwtr9GwAs-/0/1735934533223?e=2147483647&v=beta&t=tHdHCHrYK61R-Z-W5E7pil9J58s2fv5S_CB49CgaTGA",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/shelley-cruickshank-929a7138_true-story-activity-7281037161527705601-79no",
+        "title": "True story"
+      },
+      {
+        "id": "7274354962581671936",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFWYrJM9mqvPA/feedshare-shrink_800/B4EZPOzSSgHEAg-/0/1734341372292?e=2147483647&v=beta&t=GslvzTk_uu-sraoOxEvjAMvKo9d5BFFSpnKn_18jYe4",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/uniconnscotland_successful-uniconn-team-christmas-party-activity-7274354962581671936-pmfe",
+        "title": "Successful Uniconn Team Christmas party... Well deserved night with the team to celebrate the festivities, with a few sore heads on Sunday! We are\u2026"
+      },
+      {
+        "id": "7272052470091067392",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEBHrcHK32v6w/articleshare-shrink_800/articleshare-shrink_800/0/1738880474508?e=2147483647&v=beta&t=OQ4UXQOxuwBLn7RxKXbNp8xQWAgrJyw1bHZnUrLn6QA",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/chris-robatti-3b02591ba_heart-of-lochee-activity-7272052470091067392-gG_J",
+        "title": "Hello Everyone. Please, if you can, take the time to watch this amazing and inspiring short video about Lochee Boxing Club. A club close to my heart.\u2026"
+      },
+      {
+        "id": "7270040218664071169",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/paul-lawson-25603055_im-delighted-to-share-that-ive-recently-activity-7270040218664071169-AYCN",
+        "title": "I'm delighted to share that I\u2019ve recently started my new role as UK Sales Manager at Pentagon Freight Services. It\u2019s been a busy and exciting few\u2026"
+      },
+      {
+        "id": "7265771526841417728",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEjRbkCNQ07NQ/feedshare-shrink_800/feedshare-shrink_800/0/1732294921071?e=2147483647&v=beta&t=8cQEPpFaNeh4s5NLGKmQV0PDN5_Usfu0OhmzWk-omt8",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/spirit-energy_weca24-activity-7265771526841417728-sQVi",
+        "title": "Our CEO Neil McCulloch was onstage at this year's excellent World Energy Capital Assembly in London - thanks again to The Energy Council. He was\u2026"
+      },
+      {
+        "id": "7269640263252197376",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH97cXLFXMGxw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733217300458?e=2147483647&v=beta&t=buNvhDoZzb1Ijh4scvDJLWmbUHR9vU_tT_b5pcjCIEI",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/aberdeenfc_thanks-to-the-fantastic-support-of-our-official-activity-7269640263252197376-6nIf",
+        "title": "Thanks to the fantastic support of our official financial planning partner Gary Walker Wealth Management their office will be lit up with a red and\u2026"
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQHl4ZMXdH8tzA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729622267178?e=2147483647&v=beta&t=bWONIsiimFKZ_xgqzhxS7ycsE_EizuJ83ovFUyKm3fc",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "city": "Aberdeen, Scotland, United Kingdom",
+    "connections": 108,
+    "country_code": "GB",
+    "current_company": {
+      "company_id": "onesubsea",
+      "link": "https://onesubsea/",
+      "name": "OneSubsea",
+      "title": "OneSubsea"
+    },
+    "current_company_company_id": "onesubsea",
+    "current_company_name": "OneSubsea",
+    "default_avatar": false,
+    "discovery_input": {
+      "first_name": "Andrew",
+      "last_name": "Florance"
+    },
+    "education": null,
+    "experience": [
+      {
+        "company": "OneSubsea",
+        "company_id": "onesubsea",
+        "company_logo_url": null,
+        "description_html": null,
+        "duration": "14 years 2 months",
+        "location": "Aberdeen, Scotland, United Kingdom",
+        "positions": [
+          {
+            "description_html": null,
+            "duration": "Apr 2022 - Present 2 years 11 months",
+            "duration_short": "2 years 11 months",
+            "end_date": "Present",
+            "meta": "Apr 2022 - Present 2 years 11 months",
+            "start_date": "Apr 2022",
+            "subtitle": "OneSubsea",
+            "title": "Subsea Operations Specialist"
+          },
+          {
+            "description_html": null,
+            "duration": "Jan 2011 Apr 2022 11 years 4 months",
+            "duration_short": "11 years 4 months",
+            "end_date": "Apr 2022",
+            "meta": "Jan 2011 - Apr 2022 11 years 4 months",
+            "start_date": "Jan 2011",
+            "subtitle": "OneSubsea",
+            "title": "Subsea Field Service Specialist"
+          }
+        ],
+        "title": "OneSubsea",
+        "url": "https://www.linkedin.com/company/onesubsea?trk=public_profile_experience-group-header"
+      },
+      {
+        "company": "Cameron, a Schlumberger company",
+        "company_id": "cameron",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQFJ7JQca95hXg/company-logo_100_100/company-logo_100_100/0/1631376331949?e=2147483647&v=beta&t=n16lQUyiI9Ov0kiujNtbiJR3WUFrKcf0C9N0f5h03-c",
+        "description_html": null,
+        "duration": "Jan 2007 Jan 2011 4 years 1 month",
+        "duration_short": "4 years 1 month",
+        "end_date": "Jan 2011",
+        "location": "Aberdeen, Scotland, United Kingdom",
+        "start_date": "Jan 2007",
+        "title": "Surface Field Service Specialist",
+        "url": "https://www.linkedin.com/company/cameron"
+      }
+    ],
+    "followers": 108,
+    "honors_and_awards": null,
+    "id": "andrew-florance-65677a297",
+    "input": {
+      "url": "https://uk.linkedin.com/in/andrew-florance-65677a297"
+    },
+    "input_url": "https://uk.linkedin.com/in/andrew-florance-65677a297",
+    "linkedin_id": "andrew-florance-65677a297",
+    "linkedin_num_id": "1205256738",
+    "location": "Aberdeen",
+    "memorialized_account": false,
+    "name": "Andrew Florance",
+    "position": "--",
+    "similar_profiles": [],
+    "timestamp": "2025-02-12T05:07:04.383Z",
+    "url": "https://uk.linkedin.com/in/andrew-florance-65677a297"
+  },
+  {
+    "about": "As the Founder and Chief Executive Officer of CoStar Group, Andrew C. Florance has dedicated nearly four decades to digitizing the real estate industry through innovation and technology, fundamentally changing the way commercial real estate professionals access, use and share information. Since founding CoStar Group in his dorm room in 1986, he led the company\u2019s growth from a groundbreaking startup to a market-leading enterprise that is publicly traded on NASDAQ (CSGP) and included in the S&P 500 and NASDAQ 100.  \n \nCoStar Group has grown to serve over 1 million clients globally, with its websites garnering well over 1 billion visitors in the past year alone. CoStar Group's industry-leading suite of brands, including CoStar, Apartments.com, Homes.com, LoopNet, STR, Ten-X, BizBuySell, and Land.com, are home to the most up-to-date real estate information, analytics and online marketplaces.  \n  \nRecognized for its rapid growth and innovation, CoStar Group has earned placements on Forbes\u2019 100 Most Innovative Growth Companies and Fast Tech 25, as well as Fortune\u2019s 100 Fastest Growing Companies. Andrew Florance has been honored with numerous accolades, such as Globee Visionary Leader of the Year, Globee CEO of the Year, and inclusion in Commercial Observer\u2019s 30 Most Powerful People in Commercial Real Estate Proptech, Inman\u2019s Power Player list, Commercial Observer\u2019s Power 100, and the SP 200 Real Estate\u2019s Most Powerful and Influential List.  \n \nBeyond his professional achievements, Andy Florance is passionate about contributing to the community. He serves on the Cathedral Chapter of the Washington National Cathedral, the Board of Visitors for Virginia Commonwealth University, and Management Leadership for Tomorrow, a nonprofit dedicated to developing diverse leaders.",
+    "activity": [
+      {
+        "id": "7294749097314398210",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "interaction": "Shared by Andy Florance",
+        "link": "https://www.linkedin.com/posts/andy-florance-ceo-costar-group_homescom-returned-to-the-super-bowl-this-activity-7294749097314398210-ioNG",
+        "title": "Homes.com returned to the Super Bowl this year with one clear, confident message: We are delivering the best solution for effectively finding and\u2026"
+      },
+      {
+        "id": "7290772273152557056",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGzSahZ-uuIhQ/feedshare-shrink_1280/B4EZS4Gv3aHoAk-/0/1738255564945?e=2147483647&v=beta&t=gdQXA7iIN_Yhg2nqmcE43a6qdYoqQ85BYLvo9zcYRtg",
+        "interaction": "Liked by Andy Florance",
+        "link": "https://www.linkedin.com/posts/off-campus-partners_lasalleuniversity-philadelphia-lasalleuniversity-activity-7290772273152557056-sHqH",
+        "title": "We\u2019re excited to announce the launch of the La Salle University Off-Campus Housing Website, now live at offcampus.lasalle.edu! Recognized as one of\u2026"
+      },
+      {
+        "id": "7290800956319957002",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQEZGsjjvTOxcA/image-shrink_800/B4EZS4g1bpHgAc-/0/1738262403480?e=2147483647&v=beta&t=dSdpRq61lUyNIE8S1JyaOaORHbmizl4bgu99RAXw2Z8",
+        "interaction": "Liked by Andy Florance",
+        "link": "https://www.linkedin.com/posts/costar-group_lifeatcostargroup-activity-7290800956319957002-8u47",
+        "title": "Spotlight on Rachael Weinberger for her incredible impact on our Homes.com product team at CoStar Group! 2024 was a busy year for Homes.com as we\u2026"
+      },
+      {
+        "id": "7290094550776176640",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHE0nLFhUi7IQ/image-shrink_800/B4EZSueW5vGYAQ-/0/1738093982006?e=2147483647&v=beta&t=qBvcySU7PvO1Wv4KOLO34yTqCVxS-WEFCoBCiD88GJw",
+        "interaction": "Liked by Andy Florance",
+        "link": "https://www.linkedin.com/posts/homes-com_yourlistingyourlead-activity-7290094550776176640-p0NY",
+        "title": "Looking back on some of our favorite highlights from Inman Connect NY 2025. Thank you for joining us and continuing to drive the #YourListingYourLead\u2026"
+      },
+      {
+        "id": "7287818275223175170",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHKTYa4l2EOow/feedshare-thumbnail_720_1280/B4EZSOGcSCHABA-/0/1737550846295?e=2147483647&v=beta&t=ah4SrBYpPEA3rPGXch04Rk0_1jnchOJW7Bjke54kOFI",
+        "interaction": "Shared by Andy Florance",
+        "link": "https://www.linkedin.com/posts/andy-florance-ceo-costar-group_the-final-beam-on-costar-groups-beautiful-activity-7287818275223175170-ba-z",
+        "title": "The final beam on CoStar Group\u2019s beautiful new 21-story office high-rise in Richmond was recently placed, officially topping off the tallest building\u2026"
+      },
+      {
+        "id": "7282480626048327682",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQE6d1RLXZ3P7A/image-shrink_1280/image-shrink_1280/0/1736278682360?e=2147483647&v=beta&t=mFXsvKjguHp1H0621qLOfCbvEatjk_DH2lcp-WZvk-o",
+        "interaction": "Liked by Andy Florance",
+        "link": "https://www.linkedin.com/posts/princeton-university_wishing-a-happy-106th-birthday-to-donald-activity-7282480626048327682-8HaO",
+        "title": "Wishing a happy 106th birthday to Donald Fletcher \u201939 *51 \u2014 Princeton University\u2019s oldest living alum. Here are 10.6 facts about Fletch:\u2026"
+      },
+      {
+        "id": "7277331437723254784",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGnIUS-KJHJJw/feedshare-shrink_800/B4EZP1c10cHEAg-/0/1734989799706?e=2147483647&v=beta&t=OpB8EYUeASpUbOxfRKUbO9uDfvFr3jQ8ebu-RzuN64Y",
+        "interaction": "Liked by Andy Florance",
+        "link": "https://www.linkedin.com/posts/off-campus-partners_wishing-everyone-a-very-merry-joyous-holiday-activity-7277331437723254784-sqqy",
+        "title": "Wishing everyone a very merry & joyous holiday season from the Off Campus Partners team! \u2728\u2744\ufe0f\ud83c\udf81"
+      },
+      {
+        "id": "7275135538183999490",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEqPhAJuftMpg/feedshare-thumbnail_720_1280/B4EZPZ4KGdHkBA-/0/1734527200557?e=2147483647&v=beta&t=-n-Poti8LHK9Fx9s_eaSFsujmUJKL7XSOgc7Z1GF-Fc",
+        "interaction": "Shared by Andy Florance",
+        "link": "https://www.linkedin.com/posts/andy-florance-ceo-costar-group_costar-group-is-redefining-richmonds-skyline-activity-7275135538183999490-6vjr",
+        "title": "CoStar Group is redefining Richmond\u2019s skyline, consolidating multiple buildings into one unified campus that blends modern design, sustainability\u2026"
+      },
+      {
+        "id": "24",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQF97HvKI5vb_w/image-shrink_1280/image-shrink_1280/0/1734364507414?e=2147483647&v=beta&t=c7N0Jon9Qjo6qhd0AmfBGH7EFxXjwfxyZQW0PiChXSI",
+        "interaction": "Liked by Andy Florance",
+        "link": "https://www.linkedin.com/posts/princeton-university_travis-k-chai-andrade-24-and-nolan-m-activity-7274451992209502211-GA5o",
+        "title": "Travis K. Chai Andrade '24 and Nolan M. '25 have been named 2025 Marshall Scholars to pursue two years of graduate study in the United Kingdom:\u2026"
+      },
+      {
+        "id": "7274183430509154304",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF1om1VbPEnhg/feedshare-shrink_2048_1536/B4EZPMXRk6HwAo-/0/1734300476528?e=2147483647&v=beta&t=strIxGLLGz1egnWPoQehAdPt5k2Zm3ArjORK8jMbkeQ",
+        "interaction": "Liked by Andy Florance",
+        "link": "https://www.linkedin.com/posts/tonya-parris-wilkins-dds-magd-faahd-91585a66_on-saturday-during-the-december-commencement-activity-7274183430509154304-wcmI",
+        "title": "On Saturday, during the December Commencement, my alma mater, Virginia Commonwealth University awarded Joe (Joseph Wilkins, DPT, MSHA, FACHE, CPPS)\u2026"
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGlaoOw5mVgHQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1720192219708?e=2147483647&v=beta&t=T_PqbC6812wevNc2NmhxKQ_UyFk80lJJLWFzZGUs5pQ",
+    "city": "Washington DC-Baltimore Area",
+    "connections": 500,
+    "country_code": "US",
+    "current_company": {
+      "company_id": "costar-group",
+      "link": "https://costar-group/",
+      "name": "CoStar Group",
+      "title": "Founder and Chief Executive Officer"
+    },
+    "current_company_company_id": "costar-group",
+    "current_company_name": "CoStar Group",
+    "default_avatar": true,
+    "discovery_input": {
+      "first_name": "Andrew",
+      "last_name": "Florance"
+    },
+    "education": [
+      {
+        "degree": "BA",
+        "description": null,
+        "description_html": null,
+        "end_year": "1986",
+        "field": "Economics",
+        "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQE4zTC5PJAKSA/company-logo_100_100/company-logo_100_100/0/1630648147093/princeton_university_logo?e=2147483647&v=beta&t=YQ3rA8riytOAQh41Kdpy_9jquNqQaa6KtJU1K6PVBeU",
+        "start_year": "1982",
+        "title": "Princeton University",
+        "url": "https://www.linkedin.com/school/princeton-university/?trk=public_profile_school_profile-section-card_image-click"
+      },
+      {
+        "degree": "Doctor of Humane Letters",
+        "description": null,
+        "description_html": null,
+        "end_year": "2019",
+        "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQHY-pnQLhvFtQ/company-logo_100_100/company-logo_100_100/0/1630600618760/virginia_commonwealth_university_logo?e=2147483647&v=beta&t=wZrOI2i2V0kRZAo4Hno4KvsVSk3aii5hIWwHCJWw1kk",
+        "start_year": "2019",
+        "title": "Virginia Commonwealth University",
+        "url": "https://www.linkedin.com/school/virginia-commonwealth-university/?trk=public_profile_school_profile-section-card_image-click"
+      },
+      {
+        "degree": "Making Corporate Boards More Effective",
+        "description": null,
+        "description_html": null,
+        "end_year": "1999",
+        "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQF_DkXTlZVo1w/company-logo_100_100/company-logo_100_100/0/1639781479259/harvard_business_school_logo?e=2147483647&v=beta&t=iqTXmt0pce-f2IXgLDmEtpBf8-mahi6oIWugtFAJGJs",
+        "start_year": "1999",
+        "title": "Harvard Business School",
+        "url": "https://www.linkedin.com/school/harvard-business-school/?trk=public_profile_school_profile-section-card_image-click"
+      },
+      {
+        "degree": "Real Estate Capital Markets",
+        "description": null,
+        "description_html": null,
+        "end_year": "1997",
+        "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_100_100/company-logo_100_100/0/1689799729035/mit_logo?e=2147483647&v=beta&t=2BcyEkKb9m86JDvxtNLfDVfyept76unhOFNf5Wt_Vp4",
+        "start_year": "1997",
+        "title": "Massachusetts Institute of Technology",
+        "url": "https://www.linkedin.com/school/mit/?trk=public_profile_school_profile-section-card_image-click"
+      }
+    ],
+    "educations_details": "Princeton University",
+    "experience": [
+      {
+        "company": "CoStar Group",
+        "company_id": "costar-group",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQG3aaai8L_lEA/company-logo_100_100/company-logo_100_100/0/1630644550246/costar_group_logo?e=2147483647&v=beta&t=Hx8kb4ToETeaEUaO-JbmI0W8hT2yL0QOYJCeZmDukdQ",
+        "description_html": null,
+        "duration": "Mar 1986 - Present 39 years",
+        "duration_short": "39 years",
+        "end_date": "Present",
+        "location": "Washington D.C. Metro Area",
+        "start_date": "Mar 1986",
+        "title": "Founder and Chief Executive Officer",
+        "url": "https://www.linkedin.com/company/costar-group"
+      },
+      {
+        "company": "Virginia Commonwealth University",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQHY-pnQLhvFtQ/company-logo_100_100/company-logo_100_100/0/1630600618760/virginia_commonwealth_university_logo?e=2147483647&v=beta&t=wZrOI2i2V0kRZAo4Hno4KvsVSk3aii5hIWwHCJWw1kk",
+        "description_html": null,
+        "duration": "Jul 2021 - Present 3 years 8 months",
+        "duration_short": "3 years 8 months",
+        "end_date": "Present",
+        "location": "Richmond, Virginia, United States",
+        "start_date": "Jul 2021",
+        "title": "Vice Rector, Board of Visitors",
+        "url": "https://www.linkedin.com/school/virginia-commonwealth-university/"
+      },
+      {
+        "company": "Management Leadership for Tomorrow",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQF_dzBw-N7N5A/company-logo_100_100/company-logo_100_100/0/1731981472766/management_leadership_for_tomorrow_logo?e=2147483647&v=beta&t=YoAaA-sDuYrlnswNfYRWWn177JbJ3XfCGMSNfqdqxcw",
+        "description_html": null,
+        "duration": "Jan 2017 - Present 8 years 2 months",
+        "duration_short": "8 years 2 months",
+        "end_date": "Present",
+        "location": "Washington D.C. Metro Area",
+        "start_date": "Jan 2017",
+        "title": "Board Member",
+        "url": "https://www.linkedin.com/school/management-leadership-for-tomorrow/"
+      },
+      {
+        "company": "Washington National Cathedral",
+        "company_id": "washington-national-cathedral",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGoDvZBOVJ7dw/company-logo_100_100/company-logo_100_100/0/1724249491474/washington_national_cathedral_logo?e=2147483647&v=beta&t=epSjEbWTc7BfkxS_-Z9JlAHsEYrjd3mJ-0z5dSrzybc",
+        "description_html": null,
+        "duration": "2015 Jun 2023 8 years",
+        "duration_short": "8 years",
+        "end_date": "Jun 2023",
+        "location": "Washington D.C.",
+        "start_date": "2015",
+        "title": "Chairman of the Chapter (board)",
+        "url": "https://www.linkedin.com/company/washington-national-cathedral"
+      },
+      {
+        "company": "St. Albans School",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQHgSj8c6kU0dg/company-logo_100_100/company-logo_100_100/0/1631334083164?e=2147483647&v=beta&t=KeqMwZp4QnlEMeGHH_AoHy3jSSXjKiQwrus0Cg8re54",
+        "description_html": null,
+        "duration": "2015 Aug 2018 3 years",
+        "duration_short": "3 years",
+        "end_date": "Aug 2018",
+        "location": "Washington D.C. Metro Area",
+        "start_date": "2015",
+        "title": "Board Member",
+        "url": "https://www.linkedin.com/school/st--albans-school-d-c--/"
+      },
+      {
+        "company": "Children's National Health System",
+        "company_id": "children's-national-medical-center",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQF5_KwCaNCnsw/company-logo_100_100/company-logo_100_100/0/1630570325666/childrens_national_medical_center_logo?e=2147483647&v=beta&t=4xJC87sLqADvrHSDDaKdV7Twvt-gXnIv0EjdADmhAWE",
+        "description_html": null,
+        "duration": "2014 Jun 2017 3 years",
+        "duration_short": "3 years",
+        "end_date": "Jun 2017",
+        "location": "Washington D.C. Metro Area",
+        "start_date": "2014",
+        "title": "Board Member",
+        "url": "https://www.linkedin.com/company/children's-national-medical-center"
+      },
+      {
+        "company": "Walker & Dunlop",
+        "company_id": "walker-dunlop",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQFWW6laE9VmIw/company-logo_100_100/company-logo_100_100/0/1630533851109/walker__dunlop_logo?e=2147483647&v=beta&t=UHssOqEgSuoyEctQc5wF0RJgNnIf0vshymBhgM2v5vw",
+        "description_html": null,
+        "duration": "2013 2016 3 years",
+        "duration_short": "3 years",
+        "end_date": "2016",
+        "location": "Bethesda MD",
+        "start_date": "2013",
+        "title": "Board Member",
+        "url": "https://www.linkedin.com/company/walker-dunlop"
+      },
+      {
+        "company": "Beauvoir Elementary School",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFRMr6NxpYp5A/company-logo_100_100/company-logo_100_100/0/1630602807096/beauvoir_elementary_school_logo?e=2147483647&v=beta&t=WF7YGV44PvVgF-0FXe0naLgmbQJwd9GHhuTfL3R18Tk",
+        "description_html": null,
+        "duration": "2010 2016 6 years",
+        "duration_short": "6 years",
+        "end_date": "2016",
+        "location": "Washington D.C. Metro Area",
+        "start_date": "2010",
+        "title": "Board Chair",
+        "url": "https://www.linkedin.com/school/beauvoir-elementary-school/"
+      },
+      {
+        "company": "Shakespeare Theatre Company",
+        "company_id": "shakespeare-theatre-company",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHum_lEkzkMVw/company-logo_100_100/company-logo_100_100/0/1661897684018/shakespeare_theatre_company_logo?e=2147483647&v=beta&t=6M7whvV6rcGHJMPm2a3jqi89gB4ZoJZLhPw3z7Y2dpw",
+        "description_html": null,
+        "duration": "2008 2015 7 years",
+        "duration_short": "7 years",
+        "end_date": "2015",
+        "location": "Washington D.C. Metro Area",
+        "start_date": "2008",
+        "title": "Board Member",
+        "url": "https://www.linkedin.com/company/shakespeare-theatre-company"
+      },
+      {
+        "company": "American Real Estate Society",
+        "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "description_html": null,
+        "duration": "2005 2015 10 years",
+        "duration_short": "10 years",
+        "end_date": "2015",
+        "start_date": "2005",
+        "title": "Board Member"
+      },
+      {
+        "company": "National Building Museum",
+        "company_id": "national-building-museum",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGAs2BewelhFw/company-logo_100_100/company-logo_100_100/0/1729700286022/national_building_museum_logo?e=2147483647&v=beta&t=mPtF2O6eAdDYWGc1PruqA845BFKP-WumE2qZrbd_FEs",
+        "description_html": null,
+        "duration": "2009 2014 5 years",
+        "duration_short": "5 years",
+        "end_date": "2014",
+        "location": "Washington D.C. Metro Area",
+        "start_date": "2009",
+        "title": "Board Member",
+        "url": "https://www.linkedin.com/company/national-building-museum"
+      },
+      {
+        "company": "Ford's Theatre",
+        "company_id": "ford's-theatre",
+        "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "description_html": null,
+        "duration": "2007 2011 4 years",
+        "duration_short": "4 years",
+        "end_date": "2011",
+        "location": "Washington D.C. Metro Area",
+        "start_date": "2007",
+        "title": "Board Member",
+        "url": "https://www.linkedin.com/company/ford's-theatre"
+      },
+      {
+        "company": "St. Andrew's School",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQGG9OLqZfhb4A/company-logo_100_100/company-logo_100_100/0/1630601406336/st__andrews_school_logo?e=2147483647&v=beta&t=Qg87Q85y7H-_ju6GGiqLn2_mLi3izofsvz_vEWn6dto",
+        "description_html": null,
+        "duration": "2003 2009 6 years",
+        "duration_short": "6 years",
+        "end_date": "2009",
+        "location": "Middletown, DE",
+        "start_date": "2003",
+        "title": "Board Member",
+        "url": "https://www.linkedin.com/school/sas_delaware/"
+      }
+    ],
+    "followers": 6273,
+    "honors_and_awards": [
+      {
+        "date": "2016-01-01T00:00:00.000Z",
+        "description": null,
+        "publication": "Forbes",
+        "title": "11th Most Innovative Tech Company in the World"
+      },
+      {
+        "date": "2016-01-01T00:00:00.000Z",
+        "description": null,
+        "publication": "Leadership Enterprise for a Diverse America (LEDA)",
+        "title": "Leadership Enterprise for a Diverse America Award (LEDA)"
+      },
+      {
+        "date": "2015-01-01T00:00:00.000Z",
+        "description": null,
+        "publication": "Washington Business Journal",
+        "title": "Member of the Washington Business Journal Corporate Philanthropy List"
+      },
+      {
+        "date": "2015-01-01T00:00:00.000Z",
+        "description": null,
+        "publication": "The Washington Post",
+        "title": "Top Workplace 2015"
+      },
+      {
+        "date": "2009-01-01T00:00:00.000Z",
+        "description": null,
+        "publication": "U.S. Environmental Protection Agency",
+        "title": "ENERGY STAR Award for Excellence"
+      },
+      {
+        "date": "2009-01-01T00:00:00.000Z",
+        "description": null,
+        "publication": "Cornell Real Estate Review",
+        "title": "Real Estate Industry Executive of the Year"
+      },
+      {
+        "date": "2007-01-01T00:00:00.000Z",
+        "description": null,
+        "publication": "Transwestern",
+        "title": "Transwestern's Public Company Trendsetter of the Year"
+      },
+      {
+        "date": "2006-01-01T00:00:00.000Z",
+        "description": null,
+        "publication": "Commercial Real Estate Women (CREW)",
+        "title": "Honor for Industry Innovation"
+      },
+      {
+        "date": "2004-01-01T00:00:00.000Z",
+        "description": null,
+        "publication": "Business 2.0 Magazine",
+        "title": "100 Fastest Growing Public Technology Companies"
+      },
+      {
+        "date": "2000-01-01T00:00:00.000Z",
+        "description": null,
+        "publication": "Ernst & Young",
+        "title": "Entrepreneur of the Year Award"
+      }
+    ],
+    "id": "andy-florance-ceo-costar-group",
+    "input": {
+      "url": "https://www.linkedin.com/in/andy-florance-ceo-costar-group"
+    },
+    "input_url": "https://www.linkedin.com/in/andy-florance-ceo-costar-group",
+    "linkedin_id": "andy-florance-ceo-costar-group",
+    "linkedin_num_id": "24164199",
+    "location": null,
+    "memorialized_account": false,
+    "name": "Andy Florance",
+    "patents": [
+      {
+        "date_issued": "December 1, 2003",
+        "patents_id": "US",
+        "title": "2000 and 2003 Real Estate Data Collection"
+      }
+    ],
+    "people_also_viewed": [
+      {
+        "about": null,
+        "location": "Denver, CO",
+        "name": "Willy Walker",
+        "profile_link": "https://www.linkedin.com/in/willy-walker?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Park City, UT",
+        "name": "Curtis Feeny",
+        "profile_link": "https://www.linkedin.com/in/curtisfeeny?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Palo Alto, CA",
+        "name": "Chi-Hua Chien",
+        "profile_link": "https://www.linkedin.com/in/chchien?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "San Francisco Bay Area",
+        "name": "Jean-Marc TOLEDANO",
+        "profile_link": "https://www.linkedin.com/in/jeanmarctoledano?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Greater Chicago Area",
+        "name": "Marc Menendez",
+        "profile_link": "https://www.linkedin.com/in/marcmenendez?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "United States",
+        "name": "Ajay Agarwal",
+        "profile_link": "https://www.linkedin.com/in/ajay1agarwal?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Lifting the performance of companies and organizations globally by discovering, growing and enabling exceptional leaders.",
+        "location": "Washington, DC",
+        "name": "Tom Monahan",
+        "profile_link": "https://www.linkedin.com/in/tlmonahan?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Austin, TX",
+        "name": "Marc Hafner",
+        "profile_link": "https://www.linkedin.com/in/marchafner?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Richardson, TX",
+        "name": "Maan Hamdan",
+        "profile_link": "https://www.linkedin.com/in/maan-hamdan-37880?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Milan",
+        "name": "Dario Calogero",
+        "profile_link": "https://it.linkedin.com/in/dariocalogero?trk=public_profile_browsemap-profile"
+      }
+    ],
+    "position": "Founder and CEO of CoStar Group | Transforming Real Estate with Innovative Technology | Leading Global Real Estate Data and Analytics",
+    "publications": [
+      {
+        "date": "2010",
+        "description": "\u201cA Comprehensive Approach to Commercial Real Estate Prices,\u201d won an ARES manuscript prize in 2010, used a repeat-sale regression analysis to track price movements within CoStar\u2019s extensive database. This information led to the now renowned CoStar Commercial Repeat Sale Indices (CCRSI), believed to be the most comprehensive and thorough commercial real estate repeat-sale price tool available in the market today. In 2012, the Board of Governors of the Federal Reserve System included the CCRSI in their analysis used to produce the \u201cFlow of Funds Accounts of the United States,\u201d an indicator of economy-wide performance.",
+        "subtitle": "Journal of Real Estate Portfolio Management",
+        "title": "\"A Comprehensive Approach to Commercial Real Estate Prices\""
+      },
+      {
+        "date": "2010",
+        "description": "Co-authored two additional studies published in JREPM. \"Slicing, Dicing, and Scoping the Size of the U.S. Commercial Real Estate Market,\" coauthored with N. Miller, R. Peng and J. Spivey, won JREPM\u2019s \u201cBest Article\u201d award from the American Real Estate Society in 2010. This JREPM article (16:1) was the first analysis to use direct measurement of commercial property to document the full size and scope of the US commercial real estate market as an $11 trillion asset class.",
+        "subtitle": "Journal of Real Estate Portfolio Management",
+        "title": "\"Slicing, Dicing and Scoping the Size of the U.S. Commercial Real Estate Market\""
+      },
+      {
+        "date": "2008",
+        "description": "Conceived and co-authored the first comprehensive analysis of leasing and sales activity in energy-efficient office buildings in the United States. The study, published in the Journal of Real Estate Portfolio Management (\u201cDoes Green Pay Off\u201d; N. Miller, J. Spivey and A. Florence; 14:1), was selected by the American Real Estate Society as the \u201cBest Article\u201d published in JREPM for 2008. The groundbreaking study was also cited as a critical factor in CoStar Group\u2019s selection as the only commercial real estate-related company to win an ENERGY STAR Award for Excellence from the U.S. Environmental Protection Agency in 2009. CoStar currently partners with the Department of Energy to further promote energy efficiency in buildings by publishing energy scores for as many commercial buildings as possible.",
+        "subtitle": "Journal of Real Estate Portfolio Management",
+        "title": "\"Does Green Pay Off?\""
+      }
+    ],
+    "similar_profiles": [
+      {
+        "name": "Willy Walker",
+        "title": null,
+        "url": "https://www.linkedin.com/in/willy-walker",
+        "url_text": "https://www.linkedin.com/in/willy-walker"
+      },
+      {
+        "name": "Curtis Feeny",
+        "title": null,
+        "url": "https://www.linkedin.com/in/curtisfeeny",
+        "url_text": "https://www.linkedin.com/in/curtisfeeny"
+      },
+      {
+        "name": "Chi-Hua Chien",
+        "title": null,
+        "url": "https://www.linkedin.com/in/chchien",
+        "url_text": "https://www.linkedin.com/in/chchien"
+      },
+      {
+        "name": "Jean-Marc TOLEDANO",
+        "title": null,
+        "url": "https://www.linkedin.com/in/jeanmarctoledano",
+        "url_text": "https://www.linkedin.com/in/jeanmarctoledano"
+      },
+      {
+        "name": "Marc Menendez",
+        "title": null,
+        "url": "https://www.linkedin.com/in/marcmenendez",
+        "url_text": "https://www.linkedin.com/in/marcmenendez"
+      },
+      {
+        "name": "Ajay Agarwal",
+        "title": null,
+        "url": "https://www.linkedin.com/in/ajay1agarwal",
+        "url_text": "https://www.linkedin.com/in/ajay1agarwal"
+      },
+      {
+        "name": "Tom Monahan",
+        "title": "Lifting the performance of companies and organizations globally by discovering, growing and enabling exceptional leaders.",
+        "url": "https://www.linkedin.com/in/tlmonahan",
+        "url_text": "https://www.linkedin.com/in/tlmonahan"
+      },
+      {
+        "name": "Marc Hafner",
+        "title": null,
+        "url": "https://www.linkedin.com/in/marchafner",
+        "url_text": "https://www.linkedin.com/in/marchafner"
+      },
+      {
+        "name": "Maan Hamdan",
+        "title": null,
+        "url": "https://www.linkedin.com/in/maan-hamdan-37880",
+        "url_text": "https://www.linkedin.com/in/maan-hamdan-37880"
+      },
+      {
+        "name": "Dario Calogero",
+        "title": null,
+        "url": "https://it.linkedin.com/in/dariocalogero",
+        "url_text": "https://it.linkedin.com/in/dariocalogero"
+      }
+    ],
+    "timestamp": "2025-02-12T05:07:06.096Z",
+    "url": "https://www.linkedin.com/in/andy-florance-ceo-costar-group"
+  },
+  {
+    "activity": [
+      {
+        "id": "7279398925906661377",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQGEZsMx_djgyg/videocover-high/B4DZQWejuSHwBs-/0/1735543911752?e=2147483647&v=beta&t=qxUrEsoLDZRBJYD1NQ5iD32NHlzdTrplJVnQ2RSlEjc",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/iraj-janali_hvac-janco-creativity-activity-7279398925906661377-KfPw",
+        "title": "\ud83d\udcddThe art of crafting a wood-burning stove \ud83d\udd25 Wood-burning stoves are a testament to traditional craftsmanship and resourceful engineering. A\u2026"
+      },
+      {
+        "id": "30",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHRGfkA6gi8eg/image-shrink_1280/image-shrink_1280/0/1725052186905?e=2147483647&v=beta&t=TWojxVWMfJBc03oHjnga8Kw0nVrexapKbMl5X2lN3hc",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/kenbarnes9_pcep-30-02-pcep-certified-entry-level-activity-7235393288743051265-Z8wc",
+        "title": "You're never too old to learn something new! I now have my first certificate as a Python Programmer from Python Institute."
+      },
+      {
+        "id": "7185346150344921088",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQFt9dxAS_F_lw/image-shrink_1280/image-shrink_1280/0/1713118786885?e=2147483647&v=beta&t=hSqln00QPEjW9b9gED4b_G85t67fYRY_2JffIlPnmNo",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/alexander-reben-4372323_a-conversation-with-openais-first-artist-activity-7185346150344921088-Endf",
+        "title": "Had a fun chat with Will Douglas Heaven about AI, creativity, and my artist residency at OpenAI for MIT Technology Review"
+      },
+      {
+        "id": "7140474235847593984",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQER__3ATOv9ig/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1702421720726?e=2147483647&v=beta&t=0yEKpr9wVb3Rvdm3AmcxSomjr69WwwGbGDJR5smqH0U",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/brittany-nicholson_protectlife-moonshot-workataxon-activity-7140474235847593984-gaEn",
+        "title": "In 2023 I celebrated my 3 year Axon-iversary and as I reflect, I couldn't be more proud of the work we've done and what's to come. Everyday over\u2026"
+      },
+      {
+        "id": "6722541989075664896",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQFiE8MwWEecDA/image-shrink_800/image-shrink_800/0/1690760503838/ComputerScience_ProgramName-01png?e=2147483647&v=beta&t=poE78Rf-A1E3zJD0UIkKJ7zDZuXSTRLADrNrk4LNXPU",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/brownsps_computer-science-activity-6722541989075664896-89OJ",
+        "title": "Join our community of aspiring technologists, unleashing your creativity and problem-solving skills in our cutting-edge Computer Science program that\u2026"
+      },
+      {
+        "id": "7087457017266655232",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/carissaseminati_barbie-barbieworld-instoremarketing-activity-7087457017266655232-Liyu",
+        "title": "With the heavy focus on Digital Marketing these days, it's easy to forget the power of the in store experience. But these Barbie displays are beyond\u2026"
+      },
+      {
+        "id": "7080685104058023936",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/hennadiizhukov_do-you-like-debugging-activity-7080685104058023936-FPj0",
+        "title": "Do you like debugging? \ud83d\ude05"
+      },
+      {
+        "id": "7066911717632450560",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQGgxk1iaf6-rw/image-shrink_1280/image-shrink_1280/0/1684883029704/23Q3_alwys_awa_all_none_spring_EN_CustomerQuotes_aff-cybersecurity_B-puma2-dontsettlesneakers_1x1png?e=2147483647&v=beta&t=H27CjARta3ehfEYo_D6OuU0mKue-wEwFA7PhNfuXhUA",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/f5_its-time-to-make-cybersecurity-personal-activity-7066911717632450560-LrkP",
+        "title": "Don\u2019t settle for security that doesn\u2019t suit your business. F5 solutions protect any app, any API, anywhere, for more sneakers and fewer bots."
+      },
+      {
+        "id": "7064601102633062400",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE9Q6b1fTztbg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1684332155514?e=2147483647&v=beta&t=APEL4ju7FWW8fzgcNio36AdpAm0vZ3uH6Fts9Xcf5IU",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/stack-overflow_gartnerapps-activity-7064601102633062400-CwRd",
+        "title": "Ready for the Gartner Application Innovation & Business Solutions Summit? Don't miss us this coming Monday, May 22 at 6:05 pm at the Theater 2\u2026"
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEzyMAQXHWkWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696612528360?e=2147483647&v=beta&t=FCWJs-tnxh-eFpLndA9ZGEemBwWaoGAGd3TtAyYj9H4",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "city": "Boise Metropolitan Area",
+    "connections": 43,
+    "country_code": "US",
+    "current_company": {
+      "company_id": "dc-engineering",
+      "link": "https://dc-engineering/",
+      "name": "DC Engineering",
+      "title": "Programmer"
+    },
+    "current_company_company_id": "dc-engineering",
+    "current_company_name": "DC Engineering",
+    "default_avatar": false,
+    "discovery_input": {
+      "first_name": "Andrew",
+      "last_name": "Florance"
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Science - BS",
+        "description": null,
+        "description_html": null,
+        "end_year": "2022",
+        "field": "Computer Science",
+        "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFEn5_YBfWeTg/company-logo_100_100/company-logo_100_100/0/1630611036461/colorado_state_university_global_campus_logo?e=2147483647&v=beta&t=eYzAoEiJEdI7z-YH1n5soiGJucs-ORY135LhkAA_kZ0",
+        "start_year": "2021",
+        "title": "Colorado State University Global",
+        "url": "https://www.linkedin.com/school/colorado-state-university-global/?trk=public_profile_school_profile-section-card_image-click"
+      },
+      {
+        "degree": "Bachelor's degree",
+        "description": null,
+        "description_html": null,
+        "end_year": "2021",
+        "field": "Computer Science",
+        "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHvZ_lkuCOFPA/company-logo_100_100/company-logo_100_100/0/1676252895215/boisestate_logo?e=2147483647&v=beta&t=dq2UQ3HcbhJCklSoyC_VUVkX4HsM0EvIcNymnUHy3Qw",
+        "start_year": "2018",
+        "title": "Boise State University",
+        "url": "https://www.linkedin.com/school/boisestate/?trk=public_profile_school_profile-section-card_image-click"
+      }
+    ],
+    "educations_details": "Colorado State University Global",
+    "experience": [
+      {
+        "company": "DC Engineering",
+        "company_id": "dc-engineering",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEQ0D02MK0Sbw/company-logo_100_100/company-logo_100_100/0/1704911954234/dc_engineering_logo?e=2147483647&v=beta&t=V4o-GaZY7wg0l6UPntrLTZllwSj9Ze7R88NZvuGE-v0",
+        "description_html": null,
+        "duration": "Sep 2023 - Present 1 year 6 months",
+        "duration_short": "1 year 6 months",
+        "end_date": "Present",
+        "location": "Meridian, Idaho, United States",
+        "start_date": "Sep 2023",
+        "title": "Programmer",
+        "url": "https://www.linkedin.com/company/dc-engineering"
+      },
+      {
+        "company": "BuildOps",
+        "company_id": "buildops",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQFoNL2hLIruLA/company-logo_100_100/company-logo_100_100/0/1728488583483/buildops_logo?e=2147483647&v=beta&t=jSl23L9pZmZ6cmSPN7_Xdh0goeO988UqOlAGoQFFTqI",
+        "description_html": null,
+        "duration": "Jun 2022 Sep 2023 1 year 4 months",
+        "duration_short": "1 year 4 months",
+        "end_date": "Sep 2023",
+        "start_date": "Jun 2022",
+        "title": "Software Engineer",
+        "url": "https://www.linkedin.com/company/buildops"
+      }
+    ],
+    "followers": 45,
+    "honors_and_awards": null,
+    "id": "andrew-florance-91503a271",
+    "input": {
+      "url": "https://www.linkedin.com/in/andrew-florance-91503a271"
+    },
+    "input_url": "https://www.linkedin.com/in/andrew-florance-91503a271",
+    "linkedin_id": "andrew-florance-91503a271",
+    "linkedin_num_id": "1113852833",
+    "location": null,
+    "memorialized_account": false,
+    "name": "Andrew Florance",
+    "position": "Programmer @ DC Engineering | Full-Stack Developer, BS CS",
+    "similar_profiles": [],
+    "timestamp": "2025-02-12T05:07:10.328Z",
+    "url": "https://www.linkedin.com/in/andrew-florance-91503a271"
+  },
+  {
+    "about": "Creative problem solver focused on relationship building to achieve team and customer\u2026",
+    "activity": [
+      {
+        "id": "7288628540026048512",
+        "img": null,
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/alexdaane_daaneproperties-naplesflorida-naplesfl-activity-7288628540026048512-swqf",
+        "title": "AS SEEN IN : The Scout Guide Naples Vol. 12 Daane Properties is honored to be featured in Volume 12 of The Scout Guide Naples. If you\u2019re unfamiliar\u2026"
+      },
+      {
+        "id": "7288688270836699139",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGgl7cR3Okx3Q/feedshare-shrink_2048_1536/B56ZSaPsG5GsAs-/0/1737754595513?e=2147483647&v=beta&t=KV3p4R4iweCb80KIbz1Gw8_y_qAOEFT8Ox_WMdO_Lio",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/luke-dehaven-2a068a195_teambettinardi-pgashow-activity-7288688270836699139-BwSN",
+        "title": "What a week at the PGA Show in Orlando! I had the incredible opportunity to connect with so many great accounts, showcase our latest innovations\u2026"
+      },
+      {
+        "id": "7285400656411078659",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHC0rqNryBkqQ/image-shrink_1280/image-shrink_1280/0/1736974870949?e=2147483647&v=beta&t=jK34Z2pUSlsVQwvHP5kN9r2PW5d7tzIuNqE9839RiAg",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/burgess-civil-llc_teamwork-safetyfirst-burgesscivilteam-activity-7285400656411078659-H6jC",
+        "title": "Safety isn\u2019t just one person\u2014it\u2019s a team effort. Every member plays a vital role in keeping our crew\u2019s safe, every day, on every job site\u2026"
+      },
+      {
+        "id": "7274495770974720000",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE646RZy6IqWQ/feedshare-shrink_800/B4EZPQzVacGYAk-/0/1734374944611?e=2147483647&v=beta&t=lOVw5ddgDff8HWYa3_GOg7BoiqnjxGhNm33NdC9lKjE",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/robmichaellee_congrats-to-the-latest-sans-fellow-extremely-activity-7274495770974720000-dm-2",
+        "title": "Congrats to the latest SANS Fellow - extremely well deserved - Tim Conway SANS Institute SANS ICS The highest SANS \u201crank\u201d and earned through\u2026"
+      },
+      {
+        "id": "7283165936637861888",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQE4SDQnMOw3sw/image-shrink_1280/image-shrink_1280/0/1736442072534?e=2147483647&v=beta&t=eJ11V3-F5M1w8sydurM-SSCottKFdM9FEBE1WvMkiBI",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/sigma-corporation_congratulations-to-jonathan-richardson-salesperson-activity-7283165936637861888-U0tr",
+        "title": "Congratulations to Jonathan Richardson, Salesperson of the Year. Read our latest blog\u27a1\ufe0fhttps://ow.ly/TwSZ50UBfc6"
+      },
+      {
+        "id": "7282803576865796097",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGZKqxfBkeDxw/feedshare-shrink_800/B4EZRG3QJwHgAk-/0/1736355679231?e=2147483647&v=beta&t=RVnd2YDouFZNbtvW38rk5OlrXKdreArnTtiBxRTo0HI",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/helix-earth-technologies_the-uspto-was-kind-enough-to-invite-us-to-activity-7282803576865796097-o_2L",
+        "title": "The USPTO was kind enough to invite us to their startup showcase at CES! Come by booth 61401 in the Eureka Park at the Venetian Expo and say hello\u2026"
+      },
+      {
+        "id": "7265083657881632768",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGdAd3t7dROSw/image-shrink_1280/image-shrink_1280/0/1732130917108?e=2147483647&v=beta&t=0witJy8Mnl0wymxk-Wqjy_mUP29Q61RSwal3mfIfp3E",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/newmile_poweredbynewmile-innovationlab-activity-7265083657881632768-6lEI",
+        "title": "Innovation is all about turning ideas into solutions that create value\u2014and that\u2019s exactly what we focus on during our NewMile Innovation Lab\u2026"
+      },
+      {
+        "id": "7265915174446850048",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/coryarbiso_greatamericanteachin-construction-activity-7265915174446850048-Q4bc",
+        "title": "Amazing time teaching these kiddos who we are and what we do during the Great American Teach-In. Kids had a blast being up close to Big Orange and\u2026"
+      },
+      {
+        "id": "7269355569738612738",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHTzEe38IkrbQ/feedshare-shrink_800/feedshare-shrink_800/0/1731982073581?e=2147483647&v=beta&t=5MlL6ttJ-_om4vWne04VVdw39SNOHCTkaL32kel70d4",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/tylerheun_stoked-i-get-to-represent-adyen-on-the-paymentsed-activity-7269355569738612738-4O3e",
+        "title": "Stoked I get to represent Adyen on the PaymentsEd board. Our next forum is in Anaheim across the street from Disney Land. Swing a work trip into a\u2026"
+      },
+      {
+        "id": "56",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHcajIK9QRmwA/articleshare-shrink_800/articleshare-shrink_800/0/1731418388950?e=2147483647&v=beta&t=Zm0hINVEVUyAzE-JBYZJRxUBOTNQdPsc5j5I6qrgaII",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/urban-future-lab_helix-earth-secures-56-million-in-oversubscribed-activity-7265374743627812864-Iupe",
+        "title": "\u2b50 \ud835\udde6\ud835\udde7\ud835\uddd4\ud835\udde5\ud835\udde7\ud835\udde8\ud835\udde3 \ud835\udde6\ud835\udde3\ud835\udde2\ud835\udde7\ud835\udddf\ud835\udddc\ud835\uddda\ud835\udddb\ud835\udde7: Helix Earth, winner of the Urban Future Prize Competition 2024, announces the successful close of its $5.6\u2026"
+      },
+      {
+        "id": "56",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHcajIK9QRmwA/articleshare-shrink_800/articleshare-shrink_800/0/1731418388950?e=2147483647&v=beta&t=Zm0hINVEVUyAzE-JBYZJRxUBOTNQdPsc5j5I6qrgaII",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/helix-earth-technologies_helix-earth-secures-56-million-in-oversubscribed-activity-7262126264898015232--7ah",
+        "title": "We are delighted to announce that Helix Earth has closed an oversubscribed $5.6 million Seed round! \ud83d\ude80 The round was led by Veriten, with\u2026"
+      },
+      {
+        "id": "7265122210644725763",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE3k_noCQstmg/feedshare-shrink_800/feedshare-shrink_800/0/1732140107095?e=2147483647&v=beta&t=1iDltEHlphlok7UsNoV5gtprJv5srkpU6sfYJA8x9wY",
+        "interaction": "Liked by Andrew Florance",
+        "link": "https://www.linkedin.com/posts/paul-p-j-marinelli-4a3494188_a-heartfelt-thank-you-to-everyone-who-joined-activity-7265122210644725763-K4vD",
+        "title": "A heartfelt thank you to everyone who joined us at the Florida Wildlife Corridor Foundation\u2019s Strand to Slough Soiree! It was an honor to hear from\u2026"
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/C4E03AQEHt3__Ww5jGA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1600194903124?e=2147483647&v=beta&t=ydbzO7UQIJtoWirVuHuqH2t9v5uj4lZiT_T4-dmH8GA",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGh0Q1ZRBl88w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694198530675?e=2147483647&v=beta&t=A_Bxsfx9JVd-T-vwA_dfH3NK-dBaTDtuhnmtQZ7f2ac",
+    "certifications": [
+      {
+        "credential_id": null,
+        "credential_url": null,
+        "subtitle": "Florida Real Estate License ",
+        "title": "Florida Real Estate License "
+      }
+    ],
+    "city": "Naples, Florida, United States",
+    "connections": 359,
+    "country_code": "US",
+    "current_company": {
+      "company_id": "ferguson-official",
+      "link": "https://www.linkedin.com/company/ferguson-official?trk=public_profile_topcard-current-company",
+      "name": "Ferguson Enterprises"
+    },
+    "current_company_company_id": "ferguson-official",
+    "current_company_name": "Ferguson Enterprises",
+    "default_avatar": false,
+    "discovery_input": {
+      "first_name": "Andrew",
+      "last_name": "Florance"
+    },
+    "education": null,
+    "educations_details": "University of Central Florida",
+    "experience": null,
+    "followers": 358,
+    "honors_and_awards": null,
+    "id": "andrew-florance-995a0933",
+    "input": {
+      "url": "https://www.linkedin.com/in/andrew-florance-995a0933"
+    },
+    "input_url": "https://www.linkedin.com/in/andrew-florance-995a0933",
+    "linkedin_id": "andrew-florance-995a0933",
+    "linkedin_num_id": "118958657",
+    "location": "Naples",
+    "memorialized_account": false,
+    "name": "Andrew Florance",
+    "people_also_viewed": [
+      {
+        "about": "Territory Sales Manager at Ferguson HVAC",
+        "location": "New York, NY",
+        "name": "Jonathin Carrasquillo",
+        "profile_link": "https://www.linkedin.com/in/jonathin-carrasquillo?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Greater Chicago Area",
+        "name": "Don \"DJ\" Dobbs",
+        "profile_link": "https://www.linkedin.com/in/djdobbs?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Houston, TX",
+        "name": "Bryan Fussell",
+        "profile_link": "https://www.linkedin.com/in/bryanfussell?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Outside Sales Representative at TOM DODD NURSERIES INC",
+        "location": "Mobile Metropolitan Area",
+        "name": "Cailyn L. Kiernan",
+        "profile_link": "https://www.linkedin.com/in/cailynlong?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "East Longmeadow, MA",
+        "name": "Timothy McDermott",
+        "profile_link": "https://www.linkedin.com/in/timothy-mcdermott-5b222188?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Outside Sales Representative at Wheel 1",
+        "location": "Grand Prairie, TX",
+        "name": "Everett Kidd",
+        "profile_link": "https://www.linkedin.com/in/everett-kidd-5158748?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Nashville Metropolitan Area",
+        "name": "Mark White",
+        "profile_link": "https://www.linkedin.com/in/mark-white-69500b3a?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Outside sales at Needham Electric Supply",
+        "location": "Laconia, NH",
+        "name": "Bob Joyal",
+        "profile_link": "https://www.linkedin.com/in/bob-joyal-8b773576?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Kansas City Metropolitan Area",
+        "name": "Chris Nickelson",
+        "profile_link": "https://www.linkedin.com/in/chris-nickelson-8290a0b6?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Charleston, South Carolina Metropolitan Area",
+        "name": "Charles Nicholson",
+        "profile_link": "https://www.linkedin.com/in/charles-nicholson-b9953b44?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Baltimore City County, MD",
+        "name": "Mike Suskin, EIT, LEED GA",
+        "profile_link": "https://www.linkedin.com/in/mike-suskin-eit-leed-ga-7b9a6051?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Experienced Sales Leader",
+        "location": "Greater Minneapolis-St. Paul Area",
+        "name": "Chris Wondra",
+        "profile_link": "https://www.linkedin.com/in/chris-wondra-3b92818b?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Greater Milwaukee",
+        "name": "Douglas DeNicola",
+        "profile_link": "https://www.linkedin.com/in/dougdenicola?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Santa Clarita, CA",
+        "name": "David Saks",
+        "profile_link": "https://www.linkedin.com/in/david-saks-172b569?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Charlotte, NC",
+        "name": "Neely Coty",
+        "profile_link": "https://www.linkedin.com/in/neelysimmons?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Field Sales Representative at ElectroRep",
+        "location": "Bakersfield, CA",
+        "name": "Tanner McCullough - ElectroRep",
+        "profile_link": "https://www.linkedin.com/in/tanner-mccullough-electrorep-30933aa6?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Redondo Beach, CA",
+        "name": "Josh Kearney",
+        "profile_link": "https://www.linkedin.com/in/kearneyjosh?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Truckee, CA",
+        "name": "Jack Tuttle",
+        "profile_link": "https://www.linkedin.com/in/jack-tuttle-33a65312?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": null,
+        "location": "Greater Milwaukee",
+        "name": "Jimmy Porter Jr.",
+        "profile_link": "https://www.linkedin.com/in/jimmy-porter-jr-b9b94b42?trk=public_profile_browsemap-profile"
+      },
+      {
+        "about": "Currently seeking part-time employment",
+        "location": "Longview, TX",
+        "name": "Leigh Jacobson",
+        "profile_link": "https://www.linkedin.com/in/leigh-jacobson-5ab4a756?trk=public_profile_browsemap-profile"
+      }
+    ],
+    "recommendations": [
+      "LinkedIn User \u201cGetting the opportunity to work with Andrew everyday is wonderful. His dedication to the team through collaboration, attention to detail in everything he does, enthusiasm and strong work ethic stand out above the rest. Andrew\u2019s presentation skills are exceptional. He has a natural ability to command a room and get people engaged. His style incorporates innovative ideas and a strong knowledge to the subject. I have had the pleasure of working on multiple Request For Proposals (RFP) with Andrew and he is always willing to assist and take ownership of specific areas to ensure success. Andrew is a huge asset to the group! \u201d"
+    ],
+    "recommendations_count": 1,
+    "similar_profiles": [
+      {
+        "name": "Jonathin Carrasquillo",
+        "title": "Territory Sales Manager at Ferguson HVAC",
+        "url": "https://www.linkedin.com/in/jonathin-carrasquillo",
+        "url_text": "https://www.linkedin.com/in/jonathin-carrasquillo"
+      },
+      {
+        "name": "Don \"DJ\" Dobbs",
+        "title": null,
+        "url": "https://www.linkedin.com/in/djdobbs",
+        "url_text": "https://www.linkedin.com/in/djdobbs"
+      },
+      {
+        "name": "Bryan Fussell",
+        "title": null,
+        "url": "https://www.linkedin.com/in/bryanfussell",
+        "url_text": "https://www.linkedin.com/in/bryanfussell"
+      },
+      {
+        "name": "Cailyn L. Kiernan",
+        "title": "Outside Sales Representative at TOM DODD NURSERIES INC",
+        "url": "https://www.linkedin.com/in/cailynlong",
+        "url_text": "https://www.linkedin.com/in/cailynlong"
+      },
+      {
+        "name": "Timothy McDermott",
+        "title": null,
+        "url": "https://www.linkedin.com/in/timothy-mcdermott-5b222188",
+        "url_text": "https://www.linkedin.com/in/timothy-mcdermott-5b222188"
+      },
+      {
+        "name": "Everett Kidd",
+        "title": "Outside Sales Representative at Wheel 1",
+        "url": "https://www.linkedin.com/in/everett-kidd-5158748",
+        "url_text": "https://www.linkedin.com/in/everett-kidd-5158748"
+      },
+      {
+        "name": "Mark White",
+        "title": null,
+        "url": "https://www.linkedin.com/in/mark-white-69500b3a",
+        "url_text": "https://www.linkedin.com/in/mark-white-69500b3a"
+      },
+      {
+        "name": "Bob Joyal",
+        "title": "Outside sales at Needham Electric Supply",
+        "url": "https://www.linkedin.com/in/bob-joyal-8b773576",
+        "url_text": "https://www.linkedin.com/in/bob-joyal-8b773576"
+      },
+      {
+        "name": "Chris Nickelson",
+        "title": null,
+        "url": "https://www.linkedin.com/in/chris-nickelson-8290a0b6",
+        "url_text": "https://www.linkedin.com/in/chris-nickelson-8290a0b6"
+      },
+      {
+        "name": "Charles Nicholson",
+        "title": null,
+        "url": "https://www.linkedin.com/in/charles-nicholson-b9953b44",
+        "url_text": "https://www.linkedin.com/in/charles-nicholson-b9953b44"
+      },
+      {
+        "name": "Mike Suskin, EIT, LEED GA",
+        "title": null,
+        "url": "https://www.linkedin.com/in/mike-suskin-eit-leed-ga-7b9a6051",
+        "url_text": "https://www.linkedin.com/in/mike-suskin-eit-leed-ga-7b9a6051"
+      },
+      {
+        "name": "Chris Wondra",
+        "title": "Experienced Sales Leader",
+        "url": "https://www.linkedin.com/in/chris-wondra-3b92818b",
+        "url_text": "https://www.linkedin.com/in/chris-wondra-3b92818b"
+      },
+      {
+        "name": "Douglas DeNicola",
+        "title": null,
+        "url": "https://www.linkedin.com/in/dougdenicola",
+        "url_text": "https://www.linkedin.com/in/dougdenicola"
+      },
+      {
+        "name": "David Saks",
+        "title": null,
+        "url": "https://www.linkedin.com/in/david-saks-172b569",
+        "url_text": "https://www.linkedin.com/in/david-saks-172b569"
+      },
+      {
+        "name": "Neely Coty",
+        "title": null,
+        "url": "https://www.linkedin.com/in/neelysimmons",
+        "url_text": "https://www.linkedin.com/in/neelysimmons"
+      },
+      {
+        "name": "Tanner McCullough - ElectroRep",
+        "title": "Field Sales Representative at ElectroRep",
+        "url": "https://www.linkedin.com/in/tanner-mccullough-electrorep-30933aa6",
+        "url_text": "https://www.linkedin.com/in/tanner-mccullough-electrorep-30933aa6"
+      },
+      {
+        "name": "Josh Kearney",
+        "title": null,
+        "url": "https://www.linkedin.com/in/kearneyjosh",
+        "url_text": "https://www.linkedin.com/in/kearneyjosh"
+      },
+      {
+        "name": "Jack Tuttle",
+        "title": null,
+        "url": "https://www.linkedin.com/in/jack-tuttle-33a65312",
+        "url_text": "https://www.linkedin.com/in/jack-tuttle-33a65312"
+      },
+      {
+        "name": "Jimmy Porter Jr.",
+        "title": null,
+        "url": "https://www.linkedin.com/in/jimmy-porter-jr-b9b94b42",
+        "url_text": "https://www.linkedin.com/in/jimmy-porter-jr-b9b94b42"
+      },
+      {
+        "name": "Leigh Jacobson",
+        "title": "Currently seeking part-time employment",
+        "url": "https://www.linkedin.com/in/leigh-jacobson-5ab4a756",
+        "url_text": "https://www.linkedin.com/in/leigh-jacobson-5ab4a756"
+      }
+    ],
+    "timestamp": "2025-02-12T05:07:10.519Z",
+    "url": "https://www.linkedin.com/in/andrew-florance-995a0933"
+  },
+  {
+    "activity": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/C4E03AQE06ZQqy3D35A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517630194287?e=2147483647&v=beta&t=S_OZNcQPBRSF7GMMR5kbfoG8Vkwh_CMZrLlK7a8p1DU",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "city": "Greater Portsmouth Area",
+    "country_code": "GB",
+    "current_company": {
+      "name": "Surfs up",
+      "title": "Retired at Surfs up"
+    },
+    "current_company_name": "Surfs up",
+    "default_avatar": false,
+    "discovery_input": {
+      "first_name": "Andrew",
+      "last_name": "Florance"
+    },
+    "education": null,
+    "experience": [
+      {
+        "company": "Surfs up",
+        "company_logo_url": "https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f",
+        "description_html": null,
+        "title": "Retired"
+      }
+    ],
+    "honors_and_awards": null,
+    "id": "andy-florance-b1a164b4",
+    "input": {
+      "url": "https://uk.linkedin.com/in/andy-florance-b1a164b4"
+    },
+    "input_url": "https://uk.linkedin.com/in/andy-florance-b1a164b4",
+    "linkedin_id": "andy-florance-b1a164b4",
+    "linkedin_num_id": "406475590",
+    "location": null,
+    "memorialized_account": false,
+    "name": "andy florance",
+    "position": "Retired at Surfs up",
+    "similar_profiles": [],
+    "timestamp": "2025-02-12T05:07:52.908Z",
+    "url": "https://uk.linkedin.com/in/andy-florance-b1a164b4"
+  }
+]

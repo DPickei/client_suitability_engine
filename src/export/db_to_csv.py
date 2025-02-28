@@ -4,8 +4,9 @@ import os
 from pathlib import Path
 from datetime import datetime
 from src.utility_functions import load_config, get_root
+from src.export.columns_for_export import export_query
 
-def db_to_csv():
+def export_db() -> None:
     """Export SQLite database to CSV file"""
     # Load configuration
     config = load_config()
@@ -15,25 +16,28 @@ def db_to_csv():
     db_path = Path(root) / config.get("db_filepath")
     
     # Create csv directory if it doesn't exist
-    csv_dir = root / "data" / "csv"
-    csv_dir.mkdir(parents=True, exist_ok=True)
+    export_dir = Path(root) / config.get("exports_filepath")
+    export_dir.mkdir(parents=True, exist_ok=True)
     
     # Generate filename with timestamp
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    csv_path = csv_dir / f"profiles_export_{timestamp}.csv"
+    csv_path = export_dir / f"{timestamp}.csv"
     
     try:
         # Connect to database
         conn = sqlite3.connect(db_path)
+        conn.row_factory = sqlite3.Row  # This allows accessing columns by name
         cursor = conn.cursor()
         
-        # Get column names
-        cursor.execute("PRAGMA table_info(profiles)")
-        columns = [col[1] for col in cursor.fetchall()]
+        # Get the custom export query
+        query = export_query()
         
-        # Get all data from profiles table
-        cursor.execute("SELECT * FROM profiles")
+        # Execute the query
+        cursor.execute(query)
         rows = cursor.fetchall()
+        
+        # Get column names from the query results
+        columns = [description[0] for description in cursor.description]
         
         # Write to CSV
         with open(csv_path, 'w', newline='', encoding='utf-8') as csv_file:
@@ -54,4 +58,4 @@ def db_to_csv():
             conn.close()
 
 if __name__ == "__main__":
-    db_to_csv()
+    export_db()

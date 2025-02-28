@@ -1,0 +1,16 @@
+# Maximum number of records to process
+limit: 1000
+# Batch size for processing. This will depend on the rate limits of your large language model. 
+# As of 2/26/2025, Gemnini 2.0 Flash is best for this - https://ai.google.dev/gemini-api/docs/pricing
+# Batch size assumes an average profile being 10K tokens, with rate limits for tier one users being 4M tokens per minute. You could probably get away with a higher batch size.
+batch_size: 400
+
+# Don't worry about these pathing values. TODO of separation of concerns for these. Just modify the above
+input_names_filepath: data/csv/input_names/example_names.csv
+token_count_file: data/json/partitioned_files/example_user.json
+processing_json_file: data/json/example_processing.json
+partition_input_file: data/json/example_full_json_list.json
+nlp_processing_file: data/json/test_files/example_nlp.json
+processing_folder: data/json/partitioned_files
+db_filepath: data/db/example_profiles.db
+schema_filepath: schema_example.yml

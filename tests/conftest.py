@@ -1,15 +1,60 @@
 from pathlib import Path
 import json
 import pytest
-from src.database import operations, shared
-import sqlite3
+from src.database import operations
+from unittest.mock import patch
+import logging
 
-@pytest.fixture
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    filename="tests/test.log"
+)
+
+@pytest.fixture(scope="session")
 def db():
     """Fixture to create and cleanup database connection"""
-    database = operations.DatabaseOps()
-    yield database
-    # Cleanup will happen automatically via __del__
+    # Use a different database file for tests to avoid conflicts
+    with patch('src.database.shared.get_db_path') as mock_get_db_path:
+        # Use an in-memory database for testing
+        mock_get_db_path.return_value = ':memory:'
+        database = operations.DatabaseOps()
+        
+        # Initialize the database schema
+        database.cursor.execute('''
+        CREATE TABLE IF NOT EXISTS all_profiles (
+            linkedin_id TEXT PRIMARY KEY,
+            name TEXT,
+            position TEXT,
+            city_state_country TEXT,
+            country_code TEXT,
+            number_of_connections INTEGER,
+            profile_url TEXT,
+            discovery_input TEXT
+        )
+        ''')
+        
+        # Add any other tables your tests need
+        database.cursor.execute('''
+        CREATE TABLE IF NOT EXISTS nlp_attributes (
+            linkedin_id TEXT PRIMARY KEY,
+            FOREIGN KEY (linkedin_id) REFERENCES all_profiles (linkedin_id)
+        )
+        ''')
+        
+        database.cursor.execute('''
+        CREATE TABLE IF NOT EXISTS qualified_profiles (
+            linkedin_id TEXT PRIMARY KEY,
+            qualified_basic_info BOOLEAN,
+            FOREIGN KEY (linkedin_id) REFERENCES all_profiles (linkedin_id)
+        )
+        ''')
+        
+        database.conn.commit()
+        
+        yield database
+        
+        # No cleanup needed for in-memory database
 
 @pytest.fixture
 def json_folderpath():
@@ -39,7 +84,7 @@ def data_dir(tmp_path):
     sample_data = [{
         "name": "Test Person",
         "position": "Software Engineer",
-        "location": "New York",
+        "city": "New York, New York, United States",
         "connections": 500
     }]
     
@@ -68,24 +113,22 @@ def sample_profiles():
     return [{
         'linkedin_id': 'test123',
         'name': 'Test User',
-        'golfer': 'Yes',
         'position': 'Developer',
-        'location': 'New York',
+        'city_state_country': 'New York, New York, United States',
+        'country_code': 'US',
         'number_of_connections': 500,
-        'wealth_rating': 4,
-        'reasoning': 'Test reasoning',
         'profile_url': 'https://linkedin.com/test123',
-        'sent': None,
         'discovery_input': 'Test input'
     }]
 
 @pytest.fixture(autouse=True)
-def cleanup_test_data():
+def cleanup_test_data(db):
     yield  # Run the test
-    # Cleanup after test completes
-    db_path = shared.get_db_path()
-    conn = sqlite3.Connection(db_path)
-    cursor = conn.cursor()
-    cursor.execute('DELETE FROM all_profiles WHERE linkedin_id = ? OR linkedin_id = ?', ('test123', 'adam-mayblum-0586501',))
-    conn.commit()
-    conn.close()
+    
+    # We need to check if the table exists before trying to delete from it
+    db.cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='all_profiles'")
+    if db.cursor.fetchone():
+        # Table exists, safe to delete
+        db.cursor.execute('DELETE FROM all_profiles WHERE linkedin_id = ? OR linkedin_id = ?', 
+                         ('test123', 'adam-mayblum-0586501',))
+        db.conn.commit()
